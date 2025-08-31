@@ -2,14 +2,15 @@
 **A passionate computer Science Engineer || Full stack developer ||**
 
 Email Me 👉 ✉️ **divyanshupadhyay318@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+👨‍💻 About Me
+🔭 Currently Working On: Frontend Development
+🌱 Currently Learning At: GLA University, Mathura
+👯 Open to Collaborate On: Web Development Projects
+💬 Ask Me About: Collaboration, Tech Support, Web Development
+📫 Reach Me At: divyanshupadhyay318@gmail.com
+😄 Pronouns: Divyansh Sir
+⚡ Fun Fact: I Love Tech and Tech Loves Me
 
-- 🔭 **I’m currently working on:*Frontend* 
-- 🌱 **I’m currently learning:* GLA University,Mathura*
-- 👯 **I’m looking to collaborate on:*Web developer*
-- 💬 **Ask me about:*Collaboration, Tech Support*
-- 📫 **How to reach me:*divyanshupadhyay318@gmail.com*
-- 😄 **Pronouns:** Divyansh Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=divyansh0563&theme=radical&no-frame=false&no-bg=true&margin-w=4)

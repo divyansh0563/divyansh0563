@@ -3,12 +3,19 @@
 
 Email Me 👉 ✉️ **divyanshupadhyay318@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 👨‍💻 About Me
+
 🔭 Currently Working On: Frontend Development
-🌱 Currently Learning At: GLA University, Mathura
+
+🌱 Currently Learning At: GLA University, Mathura 
+
 👯 Open to Collaborate On: Web Development Projects
+
 💬 Ask Me About: Collaboration, Tech Support, Web Development
+
 📫 Reach Me At: divyanshupadhyay318@gmail.com
+
 😄 Pronouns: Divyansh Sir
+
 ⚡ Fun Fact: I Love Tech and Tech Loves Me
 
 - 

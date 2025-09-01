@@ -1,7 +1,6 @@
 # 💫 Hi 👋, I'm Divyansh Upadhyay
 **A passionate computer Science Engineer || Full stack developer ||**
 
-Email Me 👉 ✉️ **divyanshupadhyay318@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 👨‍💻 About Me
 
 🔭 Currently Working On: Frontend Development
@@ -11,8 +10,6 @@ Email Me 👉 ✉️ **divyanshupadhyay318@gmail.com** For Collaboration/Project
 👯 Open to Collaborate On: Web Development Projects
 
 💬 Ask Me About: Collaboration, Tech Support, Web Development
-
-📫 Reach Me At: divyanshupadhyay318@gmail.com
 
 😄 Pronouns: Divyansh Sir
 
@@ -64,3 +61,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:divyanshupadhyay318@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/divyansh-upadhyay-8a8638326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>

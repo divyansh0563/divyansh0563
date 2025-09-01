@@ -1,5 +1,11 @@
 # 💫 Hi 👋, I'm Divyansh Upadhyay
 **A passionate computer Science Engineer || Full stack developer ||**
+# 📬 Contact Me
+
+✨ Let's Connect & Collaborate! ✨  
+Feel free to reach out to me for collaboration, discussions, or just a friendly chat.  
+
+📧 **Email:** [divyanshupadhyay318@gmail.com](mailto:divyanshupadhyay318@gmail.com) 
 
 👨‍💻 About Me
 
@@ -10,6 +16,11 @@
 👯 Open to Collaborate On: Web Development Projects
 
 💬 Ask Me About: Collaboration, Tech Support, Web Development
+
+✨ Always open to exciting opportunities, learning, and networking.  
+You can connect with me directly on LinkedIn:  
+
+🔗 [My LinkedIn Profile](https://www.linkedin.com/in/divyansh-upadhyay-8a8638326)
 
 😄 Pronouns: Divyansh Sir
 
@@ -63,19 +74,3 @@ Here are some ideas to get you started:
 -->
 
 
-# Contact Me :
-
-<p>
-  <br>
-  If you want to reach out to me about anything, be it some doubt, just to hang out and talk, or even to game together, just ping me 😉.
-</p>
-
-<a href="mailto:divyanshupadhyay318@gmail.com">
-  <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/divyansh-upadhyay-8a8638326">
-  <img align="left" alt="LinkedIn" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</a>
-
-<br><br><br>

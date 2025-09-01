@@ -66,17 +66,16 @@ Here are some ideas to get you started:
 # Contact Me :
 
 <p>
- </br>
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+  <br>
+  If you want to reach out to me about anything, be it some doubt, just to hang out and talk, or even to game together, just ping me 😉.
+</p>
 
 <a href="mailto:divyanshupadhyay318@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+  <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/divyansh-upadhyay-8a8638326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
+
+<a href="https://www.linkedin.com/in/divyansh-upadhyay-8a8638326">
+  <img align="left" alt="LinkedIn" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
+
+<br><br><br>
